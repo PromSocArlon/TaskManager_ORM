@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# IntelliJ IDEA
+.idea
+.idea/*
+
+#Visual Studio Code
+.vscode
+
+#Visual Paradigm
+*.vpp.bak*
+*.vpp.lck
+
+#Composer
+vendor/
+composer.phar

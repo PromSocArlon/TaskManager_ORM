@@ -1,0 +1,26 @@
+Member:
+  type: Entity
+  table: member
+  id:
+   id:
+      type: integer
+      generator:
+        strategy: auto
+        unique: true
+        primary: true
+
+  fields:
+    login:
+      type: string
+      password:
+        type: string
+      mail:
+      type: string
+
+       team:
+       type: integer
+teamLeader:
+ type: intege
+
+    team :
+    type : integer
